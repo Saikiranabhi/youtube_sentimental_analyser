@@ -79,17 +79,10 @@ flowchart TD
     C -->|"Send Comments"| E["Sentiment Model"]
     E -->|"Analyze Sentiment"| F["Results"]
     F -->|"Display Metrics & Comments"| B
-```
-
----
-
-## 🌐 Live Demo
-[Live Demo Link](#) <!-- Replace with actual URL if deployed -->
-
 ---
 
 ## 🔗 GitHub Repository
-[GitHub Repo Link](#) <!-- Replace with your actual repo URL -->
+[https://github.com/Saikiranabhi/youtube_sentimental_analyser.git](#) <!-- Replace with your actual repo URL -->
 
 ---
 
@@ -102,8 +95,4 @@ flowchart TD
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-This project is licensed under the MIT License. 
+ 
