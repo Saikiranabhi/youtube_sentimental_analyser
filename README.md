@@ -58,15 +58,6 @@ Youtube_sentiment_analyser/
    - Go to the local URL provided by Streamlit (usually http://localhost:8501)
 
 ---
-flowchart TD
-    A["User"] -->|"Enter API Key & Video URL"| B["Streamlit Web App"]
-    B -->|"Extract Video ID"| C["YouTube Utils"]
-    C -->|"Fetch Comments"| D["YouTube Data API"]
-    D -->|"Return Comments"| C
-    C -->|"Send Comments"| E["Sentiment Model"]
-    E -->|"Analyze Sentiment"| F["Results"]
-    F -->|"Display Metrics & Comments"| B
----
 
 ## 🔗 GitHub Repository
 [https://github.com/Saikiranabhi/youtube_sentimental_analyser.git](#) <!-- Replace with your actual repo URL -->
