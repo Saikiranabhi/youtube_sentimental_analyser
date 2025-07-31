@@ -58,15 +58,6 @@ Youtube_sentiment_analyser/
    - Go to the local URL provided by Streamlit (usually http://localhost:8501)
 
 ---
-
-## 📝 Usage
-- Get a YouTube Data API key from Google Cloud Console
-- Paste a YouTube video URL and your API key
-- Set the number of comments and batch size
-- Click **Analyze Comments**
-- View sentiment metrics and detailed comment breakdown
-
----
 ```mermaid
 flowchart TD
     A["User"] -->|"Enter API Key & Video URL"| B["Streamlit Web App"]
