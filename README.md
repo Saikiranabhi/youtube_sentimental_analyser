@@ -58,7 +58,6 @@ Youtube_sentiment_analyser/
    - Go to the local URL provided by Streamlit (usually http://localhost:8501)
 
 ---
-```mermaid
 flowchart TD
     A["User"] -->|"Enter API Key & Video URL"| B["Streamlit Web App"]
     B -->|"Extract Video ID"| C["YouTube Utils"]
