@@ -43,7 +43,7 @@ Youtube_sentiment_analyser/
 ## 📦 Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-url>
+   git clone <https://github.com/Saikiranabhi/youtube_sentimental_analyser.git>
    cd Youtube_sentiment_analyser
    ```
 2. **Install dependencies:**
