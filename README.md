@@ -67,9 +67,6 @@ Youtube_sentiment_analyser/
 - View sentiment metrics and detailed comment breakdown
 
 ---
-
-## 📈 Workflow Diagram
-
 ```mermaid
 flowchart TD
     A["User"] -->|"Enter API Key & Video URL"| B["Streamlit Web App"]
