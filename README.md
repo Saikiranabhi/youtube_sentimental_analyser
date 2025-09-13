@@ -60,8 +60,8 @@ Youtube_sentiment_analyser/
 ---
 ## 🌐 Links
 
-- **GitHub Repository:** [https://github.com/Saikiranabhi/resume_analyser.git]
-- **Live Demo:** [https://resume-analyser-2baz.onrender.com/]
+- **GitHub Repository:** [https://github.com/Saikiranabhi/youtube_sentimental_analyser.git]
+- **Live Demo:** [#Not yet deployed]
 
 ---
 
