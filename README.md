@@ -58,9 +58,10 @@ Youtube_sentiment_analyser/
    - Go to the local URL provided by Streamlit (usually http://localhost:8501)
 
 ---
+## 🌐 Links
 
-## 🔗 GitHub Repository
-[https://github.com/Saikiranabhi/youtube_sentimental_analyser.git](#) <!-- Replace with your actual repo URL -->
+- **GitHub Repository:** [https://github.com/Saikiranabhi/resume_analyser.git]
+- **Live Demo:** [https://resume-analyser-2baz.onrender.com/]
 
 ---
 
@@ -74,3 +75,9 @@ Youtube_sentiment_analyser/
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
  
+--
+
+## 📝 License
+
+MIT
+--
